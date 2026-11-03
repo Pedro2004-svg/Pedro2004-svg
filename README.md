@@ -4,14 +4,15 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Web Developer and Network & Computer Systems Administrator, specialized in Cybersecurity. The languages and technologies I excel at include Python, JavaScript, HTML/CSS, Shell/Bash, and network environment administration. I love to learn and build infrastructures that are productive, innovative, and above all, secure.
+I am a Software Developer (recent DAW graduate) with a strong technical background in Systems Administration (ASIR) and a specialization in **Cybersecurity**. This unique combination allows me to understand applications holistically: I design and build clean, efficient, and **secure-by-design software**.
 * **I am highly interested in secure web development, network architecture, and information security**
 - 🌱 I’m currently learning ...
-  - Rust
-- 👯 I’m looking forward to collaborating on open-source projects, especially those focused on networking tools or cybersecurity.
-- ✔ Ask me about anything; I am happy to help, only if the ball is in my court!😉<br>
-- 📫 Reach out to me at: <a href="mailto:pedro.pepicazo@gmail.com">pedro.pepicazo@gmail.com</a>
-- 🌐 Visit my website: <a href="https://pedro-desarrollador-web.vercel.app/" target="_blank">https://pedro-desarrollador-web.vercel.app/</a>
+  - Angular
+- 🔭 I specialize in **Backend** development, REST APIs, and software architecture.
+- 🌱 I am continuously expanding my skills in high-performance technologies like **Angular** and modern web ecosystems.
+- 👯 I am open to collaborating on open-source projects, especially those focused on networking tools, backend engineering, or cybersecurity.
+- 📬 Reach out to me at: **pedro.pepicazo@gmail.com**
+- 🌐 Visit my portfolio: [pedro-desarrollador-web.vercel.app](https://pedro-desarrollador-web.vercel.app/)
 
 ## My Skills Include
 
